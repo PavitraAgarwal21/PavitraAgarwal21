@@ -1,7 +1,3 @@
-Certainly, here's a more concise version of your introduction:
-
----
-
 ### Hi, I'm Pavitra Agarwal 👋
 
 - 🎓 Pre-final year student at IIIT Guwahati
