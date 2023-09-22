@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**PavitraAgarwal21/PavitraAgarwal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there , I am Pavitra Agarwal pre-final student of  👋
 🔭 I’m currently working on ethereum  
 - 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on any web3 related project 
@@ -13,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 Email - pavitra.agarwal21b@iiitg.ac.in
 - 😄 Pronouns: ...
 - ⚡ Fun fact : Another noob in this proffesional world 
--->
